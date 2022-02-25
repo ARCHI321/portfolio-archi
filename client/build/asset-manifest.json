@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/archi_portfolio/static/css/main.6f38b8df.chunk.css",
+    "main.js": "/archi_portfolio/static/js/main.310b8294.chunk.js",
+    "main.js.map": "/archi_portfolio/static/js/main.310b8294.chunk.js.map",
+    "runtime-main.js": "/archi_portfolio/static/js/runtime-main.3ad94993.js",
+    "runtime-main.js.map": "/archi_portfolio/static/js/runtime-main.3ad94993.js.map",
+    "static/css/2.55a1b0a1.chunk.css": "/archi_portfolio/static/css/2.55a1b0a1.chunk.css",
+    "static/js/2.7fb7eab8.chunk.js": "/archi_portfolio/static/js/2.7fb7eab8.chunk.js",
+    "static/js/2.7fb7eab8.chunk.js.map": "/archi_portfolio/static/js/2.7fb7eab8.chunk.js.map",
+    "static/js/3.12333a9b.chunk.js": "/archi_portfolio/static/js/3.12333a9b.chunk.js",
+    "static/js/3.12333a9b.chunk.js.map": "/archi_portfolio/static/js/3.12333a9b.chunk.js.map",
+    "index.html": "/archi_portfolio/index.html",
+    "static/css/2.55a1b0a1.chunk.css.map": "/archi_portfolio/static/css/2.55a1b0a1.chunk.css.map",
+    "static/css/main.6f38b8df.chunk.css.map": "/archi_portfolio/static/css/main.6f38b8df.chunk.css.map",
+    "static/js/2.7fb7eab8.chunk.js.LICENSE.txt": "/archi_portfolio/static/js/2.7fb7eab8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/archi_portfolio/static/media/Poppins-Thin.a61eaf4c.ttf",
+    "static/media/Testimonial.css": "/archi_portfolio/static/media/bg-1.e7a118c3.jpg",
+    "static/media/Home.css": "/archi_portfolio/static/media/bg.d580cd37.jpg",
+    "static/media/education.svg": "/archi_portfolio/static/media/education.10cfa28a.svg",
+    "static/media/interests.svg": "/archi_portfolio/static/media/interests.809890a3.svg",
+    "static/media/mailz.d13d5e32.jpeg": "/archi_portfolio/static/media/mailz.d13d5e32.jpeg",
+    "static/media/AboutMe.css": "/archi_portfolio/static/media/profilephoto.8022875f.jpeg",
+    "static/media/programming-skills.svg": "/archi_portfolio/static/media/programming-skills.d19983a9.svg",
+    "static/media/projects.svg": "/archi_portfolio/static/media/projects.2b352a52.svg",
+    "static/media/work-history.svg": "/archi_portfolio/static/media/work-history.a566475d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ad94993.js",
+    "static/css/2.55a1b0a1.chunk.css",
+    "static/js/2.7fb7eab8.chunk.js",
+    "static/css/main.6f38b8df.chunk.css",
+    "static/js/main.310b8294.chunk.js"
+  ]
+}
